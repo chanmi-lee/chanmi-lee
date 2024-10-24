@@ -7,11 +7,6 @@
 
 - 📫 How to reach me **chanmi.kate.lee@gmail.com**
 
-## Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/chanmi-kate-lee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chanmi-kate-lee" height="30" width="40" /></a>
-</p>
-
 ## Languages and Tools:
 ### FE 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -80,6 +75,13 @@
   <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
   </a>
+
+## Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/chanmi-kate-lee" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chanmi-kate-lee" height="30" width="40" />
+  </a>
+</p>
 
 ### Support:
   <p>
