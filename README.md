@@ -2,7 +2,7 @@
 
 - 👨‍💻 I’m currently working on **Gmarket** (Seoul, South Korea)
 
-- 🌱 I’m currently learning **JavaScript, TypeScript, React, Node.js, Nest.js etc**
+- 🌱 I’m currently learning **JavaScript, TypeScript, React, Node.js, Next.js etc**
 
 - 📫 How to reach me **chanmi.kate.lee@gmail.com**
 
