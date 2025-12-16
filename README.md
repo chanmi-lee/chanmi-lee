@@ -1,6 +1,6 @@
 # Hi, I'm Chanmi Lee! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-- 👨‍💻 I’m currently working on **Gmarket** (Seoul, South Korea)
+- 👨‍💻 I’m currently working on **Lunit** (Seoul, South Korea). Previously worked at Gmarket (eBay Korea)
 
 - 🌱 I’m currently learning **JavaScript, TypeScript, React, Node.js, Next.js etc**
 
