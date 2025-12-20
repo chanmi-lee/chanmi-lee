@@ -34,7 +34,7 @@ const chanmi = {
 
 <br>
 
-<div align="center">
+<div align="right">
 
 ![Badge](https://hitscounter.dev/api/hit?url=https%253A%252F%252Fgithub.com%252Fchanmi-lee&label=Hi&icon=emoji-sunglasses&color=%23198754&message=&style=social&tz=UTC)
 
