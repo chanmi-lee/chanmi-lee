@@ -1,3 +1,11 @@
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=chanmi-lee&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/chanmi-lee?pet-id=790456674836336497"
+    width="600"
+    height="120"
+  />
+</a>
+
 # Hi, I'm Chanmi Lee! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 - 👨‍💻 I’m currently working on **Lunit** (Seoul, South Korea). Previously worked at Gmarket (eBay Korea)
@@ -17,6 +25,7 @@ const chanmi = {
   challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
+
 
 ## Connect with me
 <p align="left">
